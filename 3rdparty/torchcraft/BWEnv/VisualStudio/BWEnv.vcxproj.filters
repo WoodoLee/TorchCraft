@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright (c) 2015-present, Facebook, Inc.
+All rights reserved.
+
+This source code is licensed under the BSD-style license found in the
+LICENSE file in the root directory of this source tree. An additional grant
+of patent rights can be found in the PATENTS file in the same directory.
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="$(SolutionDir)\..\src\main.cc" />
+    <ClCompile Include="..\..\replayer\frame.cpp" />
+    <ClCompile Include="..\..\replayer\frame_serialization.cpp" />
+    <ClCompile Include="..\..\replayer\frame_diff.cpp" />
+    <ClCompile Include="..\..\replayer\frame_diff_serialization.cpp" />
+    <ClCompile Include="..\src\config_manager.cc" />
+    <ClCompile Include="..\src\controller.cc" />
+    <ClCompile Include="..\src\dll.cc" />
+    <ClCompile Include="..\src\module.cc" />
+    <ClCompile Include="..\src\recorder.cc" />
+    <ClCompile Include="..\src\user_actions.cc" />
+    <ClCompile Include="..\src\utils.cc" />
+    <ClCompile Include="..\src\zmq_server.cc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\include\frame.h" />
+    <ClInclude Include="..\include\config_manager.h" />
+    <ClInclude Include="..\include\controller.h" />
+    <ClInclude Include="..\include\module.h" />
+    <ClInclude Include="..\include\recorder.h" />
+    <ClInclude Include="..\include\user_actions.h" />
+    <ClInclude Include="..\include\utils.h" />
+    <ClInclude Include="..\include\zmq_server.h" />
+  </ItemGroup>
+</Project>

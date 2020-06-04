@@ -1,0 +1,26 @@
+var group__transformation =
+[
+    [ "lazy", "group__lazy__transformation.html", "group__lazy__transformation" ],
+    [ "accumulate", "group__transformation.html#ga9ca974f63ad4bb43802cf68d3c83bb8f", null ],
+    [ "cartesian_product", "group__transformation.html#ga5e408243147a04c1ca2742211e3c0982", null ],
+    [ "concat", "group__transformation.html#gaa9cac4ae40f23e9a28def3a6ad39298a", null ],
+    [ "drop", "group__transformation.html#ga296ab5ef9a04a0c2d41b2d18721e2d18", null ],
+    [ "drop_c", "group__transformation.html#gae9b1ee5e0d08017e79b621a795c09429", null ],
+    [ "filter", "group__transformation.html#ga1b39dd35a52daff4f99aadaa0797d3d5", null ],
+    [ "fold", "group__transformation.html#gad69d5b6337103436d3721c44ab48902c", null ],
+    [ "join", "group__transformation.html#gae8b919ad4c2cfe9b0fc7549cedae5e37", null ],
+    [ "partition", "group__transformation.html#ga42c782e26ea41b1c1df600bca3a3eb83", null ],
+    [ "pop_front", "group__transformation.html#ga90ced64a24594d8c6567dc7a0b099d99", null ],
+    [ "push_back", "group__transformation.html#gadd852837bbe6dc700159cfb5e6b2ebe6", null ],
+    [ "push_front", "group__transformation.html#gab168c1342bcbda5137432e47e7670a40", null ],
+    [ "replace", "group__transformation.html#ga5d686322848036e134bac431ac869442", null ],
+    [ "replace_if", "group__transformation.html#gabbd0bd2d93437a7b04af12544002df04", null ],
+    [ "reverse", "group__transformation.html#ga72c87b98916119eb5020cc198f25edb2", null ],
+    [ "reverse_fold", "group__transformation.html#gac151e84da27349af8d7127fc858f8405", null ],
+    [ "sort", "group__transformation.html#ga01e9a0330388c41cc77d4eed9af9c3d5", null ],
+    [ "transform", "group__transformation.html#ga24923725e5aa3cc7ee73367935437a1c", null ],
+    [ "transpose", "group__transformation.html#ga386fa55fefb4aa3f4df3227379916839", null ],
+    [ "unique", "group__transformation.html#ga690f11e9772207d140458abd33af908d", null ],
+    [ "zip", "group__transformation.html#ga559fdaee384c3d297b86ab217b26f601", null ],
+    [ "zip_with", "group__transformation.html#ga9aa54e4691675c758b6a010beadba6d6", null ]
+];
